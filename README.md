@@ -7,3 +7,6 @@ I used HTML, CSS and Javascript for the challenge
 
 ##Useful resources
 www.w3schools.com
+
+live website
+https://url-shortener-app-bramwel.netlify.app/
